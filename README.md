@@ -9,3 +9,5 @@ I think that it is a time waste thing, and I want to rebuild the project and mak
 Here is how did I rebuild the system.
 
 ![Configurable middleware system](https://raw.githubusercontent.com/yinhaomin/Configurable-Middleware/master/images/process-of-building-configurable-system.png "Configurable middleware system")
+
+I used the disconf to save the class config, here is the source of [disconf](https://github.com/knightliao/disconf)
