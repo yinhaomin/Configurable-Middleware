@@ -6,6 +6,6 @@ In a subscribe system, every time we have to change the field subscription,
 we have to change the subscribe codes and re-publish the whole project.
 I think that it is a time waste thing, and I want to rebuild the project and make the field subscription configurable.
 
-Here is how did I rebuild the syatem.
+Here is how did I rebuild the system.
 
-
+![Configurable middleware system](https://raw.githubusercontent.com/yinhaomin/Configurable-Middleware/master/images/process-of-building-configurable-system.png "Configurable middleware system")
