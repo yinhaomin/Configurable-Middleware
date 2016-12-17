@@ -16,4 +16,4 @@ You can also use your DB to save the config, I will upoload codes later to show 
 
 This project solves problems like these: we have to change the codes or class rapidly and frequenttly, like the codes are used to crawl or the class is used to subscribe.
 
-Hope this project can help you and make you think more.
+Hope this project can help you, make you think more and finally go further.
